@@ -22,7 +22,7 @@ This is a Telegram bot built using the Telegraf framework in Node.js. The bot pr
 
 ## Installation
 
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone https://github.com/sansyourway/AIRSEC-NEO.git
 2. Install dependencies: `npm install`
 3. Configure the bot token in the code: Replace `'YOUR_BOT_TOKEN'` with your actual bot token.
 4. Run the bot: `node bot.js`
